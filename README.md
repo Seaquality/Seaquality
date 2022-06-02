@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/seaquality_" target="blank"><img src="https://img.shields.io/twitter/follow/seaquality_?logo=twitter&style=for-the-badge" alt="seaquality_" /></a> </p>
 
-- 🔭 I’m currently working on the **Odin Project**
+- 🔭 I’m currently working on the **Learning/personl projects**
 
 - 🌱 I’m currently learning **Java | html | CSS | JavaScript | and more!**
 
