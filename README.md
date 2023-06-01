@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/seaquality_" target="blank"><img src="https://img.shields.io/twitter/follow/seaquality_?logo=twitter&style=for-the-badge" alt="seaquality_" /></a> </p>
 
-- 🔭 I’m currently working on the **Learning/personal projects**
+- 🔭 I’m currently working on the **personal projects**
 
 - 🌱 I’m currently learning **Java | html | CSS | JavaScript | and more!**
 
@@ -15,8 +15,6 @@
 - 💬 Ask me about **Java if you need help as a beginner!**
 
 - 📫 How to reach me **roberts.jordan12@gmail.com**
-
-- ⚡ Fun fact **There is always more to learn :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
