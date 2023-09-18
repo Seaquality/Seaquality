@@ -1,5 +1,5 @@
 [![MasterHead](https://wallpaperaccess.com/full/849790.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Jordan Roberts</h1>
+<h1 align="center">Jordan Roberts</h1>
 <h3 align="center">Database Anaylyst</h3>
 <img align = "right" alt="Coding" width="400" src="https://media1.tenor.com/images/fa7ae14c53595da43e65ab0262bf128a/tenor.gif?itemid=10920721">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seaquality&label=Profile%20views&color=0e75b6&style=flat" alt="seaquality" /> </p>
