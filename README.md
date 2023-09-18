@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/seaquality_" target="blank"><img src="https://img.shields.io/twitter/follow/seaquality_?logo=twitter&style=for-the-badge" alt="seaquality_" /></a> </p>
 
-- 🔭 I’m currently working on the **personal projects**
+- 🔭 Junior Database Anaylst  
 
-- 🌱 I’m currently learning **Java | html | CSS | JavaScript | and more!**
+- 🌱 Currently completing 70-461: Querying Microsoft SQL Server
 
 - 👯 I’m looking to collaborate on my **Elden Ring Calculator/build planner**
 
