@@ -10,8 +10,6 @@
 
 - 🌱 Currently completing 70-461: Querying Microsoft SQL Server
 
-- 👯 I’m looking to collaborate on my **Elden Ring Calculator/build planner**
-
 - 💬 Ask me about **Java if you need help as a beginner!**
 
 - 📫 How to reach me **roberts.jordan12@gmail.com**
